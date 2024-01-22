@@ -1,0 +1,69 @@
+
+body {
+    font-family: 'Segoe UI', sans-serif; /* Replace 'YourCustomFont' with the font name */
+  }
+
+.header-bg {
+    background-image: url('./images/tup_front.jpg'); /* Replace 'your-image-url.jpg' with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+    
+  }
+.navbar {
+    background-color: rgba(197,28,56,0.7); /* Red background with 50% transparency */
+ 
+}
+.tagline {
+
+    color: 	#E0E0E0;
+
+
+
+}
+
+
+.location{
+    color: rgba(197,28,56,1);
+    font-weight: bolder;
+    font-size: 25px;
+}
+.rank-number{
+    font-size: 100px;
+}
+.rank-size{
+    font-size: 50px;
+}
+.apply-now{
+    font-style: italic;
+    color: rgba(197,28,56,1);
+}
+
+.org-post-title{
+    color: rgba(197,28,56,1);
+    font-size: 45px;
+    font-weight: bolder;
+}
+.org-post-description{
+    font-size: 18px;
+}
+
+.course-collge{
+    color: rgba(197,28,56,1);
+    font-size: 30px;
+    font-weight: bolder;
+}
+.courses{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.contact-description{
+    color: rgba(197,28,56,1);
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.page-title{
+    font-size: 80px;
+    font-weight: bolder;
+}
